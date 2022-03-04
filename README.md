@@ -1,7 +1,7 @@
-# briandowns/hardened-tekton-cli
+# briandowns/hardened-cosign
 
 ## Build
 
 ```sh
-TAG=v0.33.1 make
+TAG=v1.6.0 make
 ```
